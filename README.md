@@ -1,0 +1,4 @@
+SpeccyAcademic
+==============
+
+Spectrum text adventure
